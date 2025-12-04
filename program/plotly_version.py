@@ -14,7 +14,8 @@ files_to_read = [
 ]
 
 CHUNK_SIZE = 400
-OUTPUT_FILE = "all_word_graphs_separate.html"
+OUTPUT_FILE = r"C:\Users\dunky\Desktop\New folder\school\ENG101\final\ENG-101-Final-Project\graphs\all_word_graphs_separate_by_file.html"
+
 
 figures_html = ""
 
