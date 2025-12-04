@@ -12,10 +12,7 @@ files_to_read = [
     r"C:\Users\dunky\Desktop\New folder\school\ENG101\final\ENG-101-Final-Project\text-files\assignment_1_new.txt"
 ]
 
-CHUNK_SIZE = 400
-
-# Ensure the graphs folder exists
-#os.makedirs(r"C:\Users\dunky\Desktop\New folder\school\ENG101\final\ENG-101-Final-Project\graphs", exist_ok=True)
+CHUNK_SIZE = 450
 
 OUTPUT_FILE = r"C:\Users\dunky\Desktop\New folder\school\ENG101\final\ENG-101-Final-Project\graphs\all_word_graphs_separate_by_file.html"
 
